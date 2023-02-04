@@ -1,1 +1,3 @@
 Github ' a proje nasıl yüklenir öğreneceğiz.
+
+Github'a ikinci commit'i yükleyelim.
